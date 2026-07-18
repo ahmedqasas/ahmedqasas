@@ -26,7 +26,7 @@ I don't just write code; I design solutions that solve real business problems, o
 ---
 
 ### 📂 Check Out My Work
-* 🌟 **Full Portfolio & CV:** [Link to your GitHub Pages will go here soon]
+* 🌟 **Full Portfolio & Projects:** [https://github.com/ahmedqasas?tab=repositories]
 
 ---
 
